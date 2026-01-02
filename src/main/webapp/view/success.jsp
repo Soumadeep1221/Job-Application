@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
-<%@ page import="com.soumadeep.Job.Application.model.JobPost" %>
+<%@ page import="com.soumadeep.JobApplication.model.JobPost" %>
 <%@page isELIgnored="false" %>
 <!DOCTYPE html>
 <html lang="en">

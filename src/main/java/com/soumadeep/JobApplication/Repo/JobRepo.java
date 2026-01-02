@@ -1,6 +1,6 @@
-package com.soumadeep.Job.Application.Repo;
+package com.soumadeep.JobApplication.Repo;
 
-import com.soumadeep.Job.Application.Model.JobPost;
+import com.soumadeep.JobApplication.Model.JobPost;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

@@ -1,7 +1,7 @@
-package com.soumadeep.Job.Application.Service;
+package com.soumadeep.JobApplication.Service;
 
-import com.soumadeep.Job.Application.Model.JobPost;
-import com.soumadeep.Job.Application.Repo.JobRepo;
+import com.soumadeep.JobApplication.Model.JobPost;
+import com.soumadeep.JobApplication.Repo.JobRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

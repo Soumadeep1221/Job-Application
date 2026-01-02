@@ -1,4 +1,4 @@
-package com.soumadeep.Job.Application.Model;
+package com.soumadeep.JobApplication.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
