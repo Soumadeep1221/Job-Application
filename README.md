@@ -78,7 +78,7 @@ You can use any IDE, but recommended ones are:
 ### Step 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/Soumadeep1221/Job-Application.git
 ```
 
 ---
