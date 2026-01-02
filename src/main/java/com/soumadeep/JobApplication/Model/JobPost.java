@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 @Data
-@NoArgsConstructor // Doubt
+@NoArgsConstructor
 @AllArgsConstructor
 @Component
 public class JobPost {

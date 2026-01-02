@@ -13,7 +13,7 @@ public class JobService {
     @Autowired
     private JobRepo repo;
 
-    public void addJob(JobPost jobPost) // This type of object is called DTO // Doubt
+    public void addJob(JobPost jobPost)
     {
         repo.addJob(jobPost);
     }
